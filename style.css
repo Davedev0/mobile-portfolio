@@ -83,7 +83,7 @@
             text-decoration: none;
             cursor: pointer;
             transition: all 0.3s ease;
-            margin-top: 20px;
+            margin-top: 15px;
             
         }
         
@@ -202,7 +202,7 @@
     display: block;
     cursor: pointer;
     font-size: 1.5rem;
-    margin-left: 90px;
+    margin-left: 80px;
     color: var(--text-color);
     z-index: 999;
 }
